@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<window id="main" width="400" height="300" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<browser id="browser" flex="1" type="content-primary" src="https://www.google.co.jp/"/>
+<findbar id="findbar" hidden="false" browserid="browser"/>
+</window>
