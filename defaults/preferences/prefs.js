@@ -1,1 +1,1 @@
-pref("toolkit.defaultChromeURI", "chrome://xrap/content/app.xul");
+pref("toolkit.defaultChromeURI", "https://www.google.com/");
